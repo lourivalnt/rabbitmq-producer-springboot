@@ -1,4 +1,4 @@
-package com.example.demospring.producer;
+package com.example.spring.producer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

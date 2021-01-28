@@ -6,8 +6,7 @@ spring:
       host: localhost
       port: 5672
       username: guest
-      password: guester.aula-spring
-er.aula-spring
+      password: guest
       exchenge:
         producer: ex.producer.aula-spring
       routing-key:
